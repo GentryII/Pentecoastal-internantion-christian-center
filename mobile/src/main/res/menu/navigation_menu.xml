@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bible"
+        android:title="Bible"
+        android:icon="@drawable/bible_black_24dp"
+        />
+    <item android:id="@+id/devotion"
+        android:title="Bible"
+        android:icon="@drawable/bible_black_24dp"
+        />
+    <!--<item android:id="@+id/sunday_sermons"
+        android:title="All Sermons"
+        android:icon="@mipmap/ic_library_music_black_24dp"-->
+        />
+    <item android:id="@+id/live_sermons"
+        android:title="What's live!"
+        android:icon="@mipmap/ic_radio_black_24dp"
+        />
+    <item android:id="@+id/videos"
+        android:title="Recorded Videos"
+        android:icon="@drawable/ic_live_tv_black_24dp"
+        />
+
+    <item android:id="@+id/contact"
+        android:title="Contact us"
+        android:icon="@drawable/ic_phone"
+        />
+    <item android:id="@+id/schedule"
+        android:title="Church Schedule"
+        android:icon="@drawable/ic_timer"
+        />
+    <!--<item android:id="@+id/social"
+        android:title="Social Media"
+        android:icon="@drawable/ic_people"-->
+        />
+    <!--<item android:id="@+id/register"
+        android:title="Register"
+        android:icon="@drawable/ic_register"-->
+        />
+    <item android:id="@+id/help"
+        android:title="Help"
+        android:icon="@drawable/ic_help"
+        />
+    <!--<item android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@mipmap/ic_power_settings_new_black_24dp"
+        />-->
+</menu>
